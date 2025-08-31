@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Entry Screengit - Awesome</Text>
+      <Text>Entry Screen - Awesome</Text>
 
       <View>
         <Text style={styles.largeText}>
